@@ -1,0 +1,76 @@
+﻿
+/*  Vista _Presentacion ---------------------------*/
+
+#foto {
+    margin: 2rem 0;
+    width: 300px;
+    height: 320px;
+    border-radius: 50%;
+}
+
+.seccion-bienvenida {
+    margin: 5rem 0 10rem 0;
+    color: white;
+}
+
+.seccion-bienvenida h1 {
+    margin-bottom: 1rem;
+}
+
+.seccion-bienvenida p {
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-size: 1.25rem;
+    text-align: justify;
+}
+
+#imagen-dotnet {
+    width: 500px;
+}
+
+/* ------------ Vista Habilidades ----------------*/
+.cabecera {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#Skills {
+    margin-top: -105px
+}
+
+#BackEnd {
+    border-radius: 15px 0 0 15px;
+    box-shadow: 0 5px 5px 0 gray;
+}
+
+#FrontEnd {
+    border-radius: 0 15px 15px 0;
+    box-shadow: 0 5px 5px 0 gray;
+}
+
+.habilidades ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.habilidades i {
+    font-size: 50px;
+    color: #0d6efd;
+}
+
+.iconos {
+    margin-bottom: 0px;
+    font-size: 20px;
+    color: #0d6efd;
+}
+footer h5{
+    margin-left: 20px;
+    line-height:30px;
+}
+
+footer{
+    width: 100%;
+    height: 30px;
+    border-top: solid 1px black;
+    display: flex;
+}
